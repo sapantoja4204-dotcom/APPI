@@ -20,21 +20,21 @@ export const defaultReferences: Tutorial[] = [
       "Tutorial completo para entender la anatomía de las manos y dibujarlas correctamente desde diferentes ángulos.",
     steps: [
       {
-        id: 1,
+        id: "1",
         image: "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=600&h=400&fit=crop",
         title: "Paso 1: Formas Básicas",
         description:
           "Comienza con formas geométricas simples para construir la estructura de la mano.",
       },
       {
-        id: 2,
+        id: "2",
         image: "https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?w=600&h=400&fit=crop",
         title: "Paso 2: Proporciones",
         description:
           "Aprende las proporciones correctas entre dedos, palma y muñeca.",
       },
       {
-        id: 3,
+        id: "3",
         image: "https://images.unsplash.com/photo-1605721911519-3dfeb3be25e7?w=600&h=400&fit=crop",
         title: "Paso 3: Detalles",
         description: "Añade detalles como nudillos, uñas y pliegues de la piel.",
